@@ -1,0 +1,3 @@
+[
+  {"question": "Replace with a question about your uploaded documents", "expect": ["a phrase that must appear in the right chunk"]}
+]
