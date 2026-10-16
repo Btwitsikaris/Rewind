@@ -201,8 +201,16 @@ export default function Landing({ onAuth }: { onAuth: (m: Mode) => void }) {
       </main>
 
       <footer className="l-wrap l-foot">
-        <Logo height={24} />
-        <span className="muted">Chat with your documents. Every answer cites its source.</span>
+        <div className="l-foot-brand">
+          <Logo height={24} />
+          <span className="muted">Chat with your documents. Every answer cites its source.</span>
+        </div>
+        <div className="l-foot-contact">
+          <h4>Contact</h4>
+          <p>Designed by <strong>Aniket Majumdar</strong></p>
+          <a className="l-foot-mail" href="mailto:aniketmajumdar2006@gmail.com">aniketmajumdar2006@gmail.com</a>
+          <small>for questions, bugs, or feedback</small>
+        </div>
       </footer>
     </div>
   );
