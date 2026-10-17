@@ -2,6 +2,8 @@
 
 <img src="frontend/public/logo.png" alt="Rewind logo" width="110" />
 
+<hr/>
+
 ### Ask a question. **Rewind to the source.**
 
 Chat with your own documents. Every answer streams in with numbered citations,
