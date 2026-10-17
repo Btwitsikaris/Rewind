@@ -2,7 +2,7 @@
 
 <img src="frontend/public/logo.png" alt="Rewind logo" width="110" />
 
-# ⏪ Rewind
+
 
 ### Ask a question. **Rewind to the source.**
 
